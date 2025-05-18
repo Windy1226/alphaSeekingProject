@@ -16,4 +16,4 @@
    ├── plotting/                # 可视化
    ├── strategies/              # 策略实现
    ├── utils/                   # 工具函数
-   └── README.md                # 项目说明
+   └──                          # 其他相关文件
